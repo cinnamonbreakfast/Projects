@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=background
+comment1.params=
+comment1.target=background()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ mainMenu()
+comment4.params=
+comment4.target=void\ getStarted()
+comment5.params=
+comment5.target=void\ ExitingStoryMode()
+comment6.params=
+comment6.target=boolean\ isGameStarted()
+comment7.params=
+comment7.target=void\ enableCustomCursor()
+numComments=8

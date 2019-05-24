@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=foodbox
+comment1.params=
+comment1.target=foodbox()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ deschideLacatFaraNumere()
+comment4.params=
+comment4.target=void\ deschideLacatCuNumere()
+comment5.params=
+comment5.target=void\ InchideLacat()
+comment6.params=
+comment6.target=boolean\ isLookingAtLock()
+comment7.params=
+comment7.target=boolean\ isKey1Found()
+numComments=8

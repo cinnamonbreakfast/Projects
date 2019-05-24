@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Options
+comment1.params=
+comment1.target=void\ Options()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ getOptions()
+numComments=4

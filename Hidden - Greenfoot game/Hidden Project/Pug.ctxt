@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pug
+comment1.params=
+comment1.target=void\ act()
+comment2.params=direction
+comment2.target=void\ faceChar(int)
+comment3.params=x\ y\ face
+comment3.target=void\ setPetPos(int,\ int,\ int)
+comment4.params=
+comment4.target=int\ getFace()
+comment5.params=tog
+comment5.target=void\ toggleSit(int)
+comment6.params=
+comment6.target=void\ barkInterval()
+comment7.params=sound
+comment7.target=void\ playASound(int)
+comment8.params=
+comment8.target=void\ setSprite()
+numComments=9

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=stickynote
+comment1.params=img\ posx\ posy\ l
+comment1.target=stickynote(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
