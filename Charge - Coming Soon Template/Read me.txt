@@ -1,0 +1,22 @@
+Product: Charge - Coming soon template
+Version: 1.2.5
+Author: AndrewArts
+
+Thank you for buying this theme.
+
+Please, read all chapters from Documentation in order to have a good installation and don't forget to rate or even comment.
+
+Use my address from Documentation or Product page to contact me at any time.
+Thank you!
+
+RATE THIS ***** !
+https://themeforest.net/item/charge-coming-soon-template/15897547
+
+New in 1.2.5 "Don't burn it!":
+- added "sendmail.php" variations. Now you can send using your domain mailing address and G-Mail.
+Note: Remember that ALL THOSE MESSAGES sent from website will be sent to YOU, not to user/visitor. They won't receive any mail. You're the one that will receive.
+- contact form will empty its fields and bubble message will dissapear in about 3seconds
+- messages limitation (one per visit or no limit)
+- fixed CSS
+
+Thank you!
