@@ -14,7 +14,7 @@ Back then in 2016, GDPR wasn't a thing, and subscribers data could be kinda comp
 
 ---> What are my plans with LightHouse>
 
-Well, some years passed and I'm still thinking what should I do with it. The software was never really used by that man, because he tried to scam me and get the software for free.
+Well, some years passed and I'm still thinking what should I do with it. The software was never really used by that man, because he tried to scam me and get the software for free. He played himself and did not end up with my product :) .
 I am planning to rebuild this entire software and make it for different domains and customizable for everybody. It was pretty fixed to this domain (water distributing). Till then, I have to find a good team to make this possible.
 There is a need of this kind of softwares nowadays, where small companies cannot manage their clients and billings properly and hiring people to do this job may be exhausting for them and time consuming, resulting in a slow process and maybe mistakes.
 
